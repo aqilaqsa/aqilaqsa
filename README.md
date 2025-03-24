@@ -45,7 +45,7 @@
     <a href="mailto:aqsaaqila03@gmail.com">
       <img src="https://img.shields.io/badge/📧 Gmail-fcc1cc?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://linkedin.com/in/aqilaqsa">
+    <a href="https://linkedin.com/in/aqila-aqsa">
       <img src="https://img.shields.io/badge/🌸 LinkedIn-e5f0fa?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://instagram.com/aqilaqsa">
