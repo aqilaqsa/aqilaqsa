@@ -3,7 +3,7 @@
 A Final Year IT student with interests in Data, Machine Learning, and Web Development💻✨
 
 <div align="center">
-    <img src="https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif" width="500"/>
+    <img src="https://media.giphy.com/media/TxjOEVUWq5RTy/giphy.gif?cid=790b7611u78fvg2ykrpods8cdq9chnem6fv4g6fy215mxprf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
 </div>
 
 ---
