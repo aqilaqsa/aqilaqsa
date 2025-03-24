@@ -38,6 +38,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilaqsa&layout=compact&theme=tokyonight" alt="Top Languages" />
 
+  <img src="https://github-readme-stats.vercel.app/api?username=aqilaqsa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqilaqsa&theme=tokyo-night" alt="GitHub Activity Graph" />
 
 </div>
