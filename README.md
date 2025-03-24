@@ -1,7 +1,7 @@
 ### Hi there~ I'm Kila!🌷
 A Final Year IT student with interests in Data, Machine Learning, and Web Development💻✨
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N4dHJ6OXc0NzBhYXRiNG40anRvN2FuOWk3anA2bzZsYjU1eXhyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+<center><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N4dHJ6OXc0NzBhYXRiNG40anRvN2FuOWk3anA2bzZsYjU1eXhyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/></center>
 
 ![Cute Badge](https://img.shields.io/badge/💖-Kawaii-blueviolet?style=flat&logo=github)
 
@@ -17,4 +17,4 @@ A Final Year IT student with interests in Data, Machine Learning, and Web Develo
 ---
 
 💌 Let's connect!
-[![Instagram Badge](https://img.shields.io/badge/-@kila.dev-fcc1cc?style=flat&logo=instagram&logoColor=white)](https://linkedin/in/aqilaqsa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-fcc1cc?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aqilaqsa)
