@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there~ I'm Kila!🌷
+A Final Year IT student with interests in Data, Machine Learning, and Web Development💻✨
 
-<!--
-**aqilaqsa/aqilaqsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N4dHJ6OXc0NzBhYXRiNG40anRvN2FuOWk3anA2bzZsYjU1eXhyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
-Here are some ideas to get you started:
+![Cute Badge](https://img.shields.io/badge/💖-Kawaii-blueviolet?style=flat&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 I'm passionate about:
+- ✨ Frontend magic with React & Tailwind
+- 🎨 Designing soft and cozy UI/UX
+- 🐾 Building cute, meaningful web apps
+
+🔭 Currently working on: [My Aesthetic Portfolio](https://my-portfolio-link.com)
+
+![Kila's GitHub stats](https://github-readme-stats.vercel.app/api?username=kila-dev&show_icons=true&theme=tokyonight&icon_color=ff79c6)
+
+---
+
+💌 Let's connect!
+[![Instagram Badge](https://img.shields.io/badge/-@kila.dev-fcc1cc?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kila.dev)
