@@ -38,21 +38,24 @@
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   </p>
 
-<br><br>
-  <a href="https://github.com/aqilaqsa">
-    <img src="https://img.shields.io/badge/💻 GitHub-fcc1cc?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/aqilaqsa">
-    <img src="https://img.shields.io/badge/🌸 LinkedIn-e5f0fa?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/aqilaqsa">
-    <img src="https://img.shields.io/badge/🌺 Instagram-fcc1cc?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>    
-  <a href="#">
-    <img src="https://img.shields.io/badge/🌟 Portfolio-e5f0fa?style=flat&logo=web&logoColor=white" alt="Portfolio Placeholder Badge"/>
-  </a>
-</div>
+---
 
+<p>
+    <a href="https://github.com/aqilaqsa">
+      <img src="https://img.shields.io/badge/💻 GitHub-fcc1cc?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="https://linkedin.com/in/aqilaqsa">
+      <img src="https://img.shields.io/badge/🌸 LinkedIn-e5f0fa?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://instagram.com/aqilaqsa">
+      <img src="https://img.shields.io/badge/🌺 Instagram-fcc1cc?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>    
+    <a href="#">
+      <img src="https://img.shields.io/badge/🌟 Portfolio-e5f0fa?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</p>
+  
+</div>
 
 ---
 
@@ -69,4 +72,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqilaqsa&theme=radical" alt="GitHub Activity Graph" />
 
 </div>
-
