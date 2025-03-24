@@ -38,8 +38,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilaqsa&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=aqilaqsa&theme=tokyonight" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqilaqsa&theme=tokyo-night" alt="GitHub Activity Graph" />
 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=aqilaqsa" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=aqilaqsa&label=Profile%20views&color=blueviolet&style=flat" alt="Visitor Count" />
+
 </div>
 
