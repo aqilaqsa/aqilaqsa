@@ -36,5 +36,5 @@
 - 🐾 Building cute, meaningful web apps
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aqilaqsa&show_icons=true&theme=tokyonight&icon_color=ff79c6" alt="Kila's GitHub stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilaqsa&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
