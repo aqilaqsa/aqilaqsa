@@ -13,7 +13,7 @@
   <h3>✨ Tech Stack & Tools ✨</h3>
 
 <div align="center">
-  <h3>📊 Data & Analysis</h3>
+  <h3>📊 Data Analysis and Science</h3>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
@@ -62,7 +62,7 @@
 
 🌟 Passions and Interests:
 
-- ✨ Data Analytics
+- ✨ Data Analysis
 - 🎨 Data Science and Machine Learning
 - 🌺 Web Development
 
