@@ -40,7 +40,5 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqilaqsa&theme=tokyo-night" alt="GitHub Activity Graph" />
 
-  <img src="https://komarev.com/ghpvc/?username=aqilaqsa&label=Profile%20views&color=blueviolet&style=flat" alt="Visitor Count" />
-
 </div>
 
