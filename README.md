@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-<h3>✨ Currently Learning Tech Stack & Tools ✨</h3>
+<h3>✨ Currently Learning ✨</h3>
 
 <div align="center">
   <h3>📊 Data Analysis and Science</h3>
