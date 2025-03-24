@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hi there~ I'm Kila!🌷</h1>
-    <p>A Final Year IT student💻✨</p>
+    <p>A Final Year IT student diving into Data, Machine Learning, and Web Development💻✨</p>
 </div>
 
 
