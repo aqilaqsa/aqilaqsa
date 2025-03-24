@@ -59,11 +59,12 @@
 
 ---
 
-🌟 I'm passionate about:
+🌟 Passions and Interests:
 
-- ✨ Frontend magic with React & Tailwind
-- 🎨 Designing soft and cozy UI/UX
-- 🐾 Building cute, meaningful web apps
+- ✨ Data Analytics
+- 🎨 Business Intelligence
+- 🐾 Data Science and Machine Learning
+- 🌺 Web Development
 
 ---
 
