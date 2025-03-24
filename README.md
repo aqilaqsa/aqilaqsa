@@ -12,6 +12,8 @@
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilaqsa&layout=compact&theme=radical" alt="Top Languages" />
+
   <a href="https://github.com/aqilaqsa">
     <img src="https://img.shields.io/badge/💻 GitHub-fcc1cc?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
@@ -36,7 +38,6 @@
 - 🐾 Building cute, meaningful web apps
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilaqsa&layout=compact&theme=radical" alt="Top Languages" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aqilaqsa&theme=radical" alt="GitHub Activity Graph" />
 
