@@ -25,7 +25,7 @@ A Final Year IT student with interests in Data, Machine Learning, and Web Develo
 - 🐾 Building cute, meaningful web apps
 
 <div align="center">
-![Kila's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqilaqsa&show_icons=true&theme=tokyonight&icon_color=ff79c6)
+    <img src="https://github-readme-stats.vercel.app/api?username=aqilaqsa&show_icons=true&theme=tokyonight&icon_color=ff79c6" alt="Kila's GitHub stats"/>
 </div>
 
 ---
