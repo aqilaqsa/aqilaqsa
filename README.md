@@ -1,6 +1,8 @@
-# Hi there~ I'm Kila!🌷
+<div align="center">
+    <h1>Hi there~ I'm Kila!🌷</h1>
+</div>
 
-<div align="center">A Final Year IT student💻✨</div>
+A Final Year IT student💻✨
 
 <div align="center">
     <img src="https://media.giphy.com/media/TxjOEVUWq5RTy/giphy.gif?cid=790b7611u78fvg2ykrpods8cdq9chnem6fv4g6fy215mxprf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
