@@ -7,7 +7,7 @@ A Final Year IT student with interests in Data, Machine Learning, and Web Develo
 
 <div align="center">
     <a href="https://github.com/aqilaqsa">
-        <img src="https://img.shields.io/badge/💖-Kawaii-blueviolet?style=flat&logo=github" alt="Cute Badge"/>
+        <img src="https://img.shields.io/badge/💻-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
     <a href="https://linkedin.com/in/aqilaqsa">
         <img src="https://img.shields.io/badge/🌸-LinkedIn-fcc1cc?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
