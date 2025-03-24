@@ -3,8 +3,6 @@
     <p>A Final Year IT student diving into Data, Machine Learning, and Web Development💻✨</p>
 </div>
 
-
-
 <div align="center">
     <img src="https://media.giphy.com/media/TxjOEVUWq5RTy/giphy.gif?cid=790b7611u78fvg2ykrpods8cdq9chnem6fv4g6fy215mxprf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500"/>
 </div>
@@ -13,7 +11,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilaqsa&layout=compact&theme=radical" alt="Top Languages" />
-<br>
+<br><br>
   <a href="https://github.com/aqilaqsa">
     <img src="https://img.shields.io/badge/💻 GitHub-fcc1cc?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
