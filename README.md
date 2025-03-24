@@ -37,13 +37,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqilaqsa&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
-<div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=aqilaqsa&theme=tokyonight" alt="GitHub Activity Graph" />
-</div>
 
-<div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=aqilaqsa" alt="Visitor Count" />
 </div>
 
