@@ -13,16 +13,16 @@
 
 <div align="center">
   <a href="https://github.com/aqilaqsa">
-    <img src="https://img.shields.io/badge/💻 GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/💻 GitHub-fcc1cc?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://linkedin.com/in/aqilaqsa">
     <img src="https://img.shields.io/badge/🌸 LinkedIn-fcc1cc?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/aqilaqsa">
-    <img src="https://img.shields.io/badge/🌺 Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/🌺 Instagram-fcc1cc?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>    
   <a href="#">
-    <img src="https://img.shields.io/badge/🌟 Portfolio-0A0A0A?style=flat&logo=web&logoColor=white" alt="Portfolio Placeholder Badge"/>
+    <img src="https://img.shields.io/badge/🌟 Portfolio-fcc1cc?style=flat&logo=web&logoColor=white" alt="Portfolio Placeholder Badge"/>
   </a>
 </div>
 
