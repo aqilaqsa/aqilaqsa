@@ -12,7 +12,9 @@ A Final Year IT student with interests in Data, Machine Learning, and Web Develo
         <a href="https://linkedin.com/in/aqilaqsa">
         <img src="https://img.shields.io/badge/🌸-LinkedIn-fcc1cc?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="#">
+        <a href="https://instagram.com/aqilaqsa">
+            <img src="https://img.shields.io/badge/🌺-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+        </a>    <a href="#">
         <img src="https://img.shields.io/badge/🌟-Portfolio-0A0A0A?style=flat&logo=web&logoColor=white" alt="Portfolio Placeholder Badge"/>
         </a>
 </div>
