@@ -44,10 +44,6 @@
 </div>
 
 <div align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="WakaTime Stats" />
-</div>
-
-<div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=aqilaqsa" alt="Visitor Count" />
 </div>
 
