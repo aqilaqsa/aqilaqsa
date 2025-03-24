@@ -24,9 +24,9 @@ A Final Year IT student with interests in Data, Machine Learning, and Web Develo
 - 🎨 Designing soft and cozy UI/UX
 - 🐾 Building cute, meaningful web apps
 
-<!-- 🔭 Currently working on: [My Aesthetic Portfolio](https://my-portfolio-link.com) -->
-
+<div align="center">
 ![Kila's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqilaqsa&show_icons=true&theme=tokyonight&icon_color=ff79c6)
+</div>
 
 ---
 
