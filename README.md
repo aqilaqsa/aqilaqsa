@@ -21,6 +21,8 @@ A Final Year IT student with interests in Data, Machine Learning, and Web Develo
         </a>
 </div>
 
+---
+
 🌟 I'm passionate about:
 - ✨ Frontend magic with React & Tailwind
 - 🎨 Designing soft and cozy UI/UX
