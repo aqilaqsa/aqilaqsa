@@ -6,7 +6,18 @@ A Final Year IT student with interests in Data, Machine Learning, and Web Develo
 </div>
 
 <div align="center">
-![Cute Badge](https://img.shields.io/badge/💖-Kawaii-blueviolet?style=flat&logo=github)
+    <a href="https://github.com/aqilaqsa">
+        <img src="https://img.shields.io/badge/💖-Kawaii-blueviolet?style=flat&logo=github" alt="Cute Badge"/>
+    </a>
+    <a href="https://linkedin.com/in/aqilaqsa">
+        <img src="https://img.shields.io/badge/🌸-LinkedIn-fcc1cc?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/aqilaqsa">
+        <img src="https://img.shields.io/badge/✨-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://dev.to/aqilaqsa">
+        <img src="https://img.shields.io/badge/🌟-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
+    </a>
 </div>
 
 🌟 I'm passionate about:
