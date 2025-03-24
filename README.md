@@ -50,7 +50,7 @@
     <a href="https://instagram.com/aqilaqsa">
       <img src="https://img.shields.io/badge/🌺 Instagram-fcc1cc?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>    
-    <a href="#">
+    <a href="http://bit.ly/aqila-aqsa-portfolio">
       <img src="https://img.shields.io/badge/🌟 Portfolio-e5f0fa?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
     </a>
 </p>
