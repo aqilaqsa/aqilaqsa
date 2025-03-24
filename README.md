@@ -1,4 +1,5 @@
 # Hi there~ I'm Kila!🌷
+
 A Final Year IT student with interests in Data, Machine Learning, and Web Development💻✨
 
 <div align="center">
@@ -15,8 +16,9 @@ A Final Year IT student with interests in Data, Machine Learning, and Web Develo
         <img src="https://img.shields.io/badge/🌸-LinkedIn-fcc1cc?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
         <a href="https://instagram.com/aqilaqsa">
-            <img src="https://img.shields.io/badge/🌺-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-        </a>    <a href="#">
+        <img src="https://img.shields.io/badge/🌺-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+        </a>    
+        <a href="#">
         <img src="https://img.shields.io/badge/🌟-Portfolio-0A0A0A?style=flat&logo=web&logoColor=white" alt="Portfolio Placeholder Badge"/>
         </a>
 </div>
@@ -24,6 +26,7 @@ A Final Year IT student with interests in Data, Machine Learning, and Web Develo
 ---
 
 🌟 I'm passionate about:
+
 - ✨ Frontend magic with React & Tailwind
 - 🎨 Designing soft and cozy UI/UX
 - 🐾 Building cute, meaningful web apps
@@ -31,4 +34,3 @@ A Final Year IT student with interests in Data, Machine Learning, and Web Develo
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=aqilaqsa&show_icons=true&theme=tokyonight&icon_color=ff79c6" alt="Kila's GitHub stats"/>
 </div>
-
