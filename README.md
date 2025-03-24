@@ -66,7 +66,7 @@
 
 🌟 Passions and Interests:
 
-- ✨ Data Analysis & Science
+- ✨ Data Analysis
 - 🎨 Data Science and Machine Learning
 - 🌺 Web Development
 
