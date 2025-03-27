@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Hugging Face-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=black"/>
     <img src="https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white" alt="Looker Studio Badge" />
   </p>
 
   <h3>💻 Web Development</h3>
